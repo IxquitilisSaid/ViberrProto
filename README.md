@@ -9,4 +9,3 @@ STEP 4: For the signup page, go to http://localhost:8000/music/register/
 STEP 5: Sign up, triggering an error msg
 STEP 6: Go to the /admin/ page and congrats, your new user was added there.
 
-This is the best I could do in 2 days and with no prior knowledge in Django lol
